@@ -11,7 +11,7 @@ function App() {
       </header>
       <main>
         <div className="description">
-          <h4>Connecting the social media world with the global stage.</h4>
+          <h4>Connecting the social media world with a global stage.</h4>
         </div>
         <div className="mid">
           <h3>Fame is the platform set to revolutionize mainstream social media through its <br></br>World Page 🌎 and Profile Video 🎥 features.</h3>
@@ -37,7 +37,7 @@ function App() {
                 <img src={ris} alt="Image 2" style={{ width: '100%', maxWidth: '280px' }} />
                 <h3 className="text-center">Rishabh Ganesh</h3> 
                 <div>
-                  <p className="text-left">Rishabh is an innovator with a background in computer science and applied mathematics dedicated to building the technical side of Fame. In his free time, he can be found shuffling cards, running, and creating content. As one of the pioneers for Fame, he is passionate about making a modern, cutting-edge platform focused on its users.</p>
+                  <p className="text-left">Rishabh is an innovator with a background in computer science and applied mathematics who is dedicated to building the technical side of Fame. In his free time, he can be found shuffling cards, running, and creating content. As one of the pioneers for Fame, he is passionate about making a modern, cutting-edge platform focused on its users.</p>
                 </div>
               </div>
             </div>
