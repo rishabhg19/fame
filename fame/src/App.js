@@ -1,6 +1,7 @@
 import React from 'react';
 import famelogo from './famelogo.JPEG';
 import ris from './ris.jpg';
+import charlie from './charlie.jpg'
 
 function App() {
   return (
@@ -24,7 +25,7 @@ function App() {
           <div className="row justify-content-center">
             <div className="col-md-6">
               <div className="image d-flex justify-content-center align-items-center flex-column">
-                <img src={famelogo} alt="Image 1" style={{ width: '100%', maxWidth: '340px' }} />
+                <img src={charlie} alt="Image 1" style={{ width: '100%', maxWidth: '260px' }} />
                 <h3 className="text-center">Charles Grill</h3>
                 <div>
                   <p className="text-left">Charlie is an entrepreneur with a background in applied physics and mathematics who is working on building Fame full-time. He enjoys making music, swimming, and cryptocurrency trading. His passion for idea generation, his expertise in composing music, and his experience developing pet projects laid the foundation for Fame.</p>
