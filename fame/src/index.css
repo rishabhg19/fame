@@ -7,6 +7,25 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+header {
+  text-align: center;
+}
+
+header img {
+  /* Add additional styling for the image if needed */
+  max-width: 100%;
+  height: auto;
+}
+
+.mid
+{
+  text-align: center;
+}
+.description
+{
+  text-align: center;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

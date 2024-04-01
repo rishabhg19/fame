@@ -24,6 +24,16 @@
   color: white;
 }
 
+header {
+  text-align: center;
+}
+
+header img {
+  /* Add additional styling for the image if needed */
+  max-width: 100%;
+  height: auto;
+}
+
 .App-link {
   color: #61dafb;
 }
